@@ -1,0 +1,11 @@
+date,merchant,amount,currency,card
+2026-04-01,AMZN SG,220.80,SGD,Generic Cashback
+2026-04-02,SPOTIFY P123,10.98,SGD,Generic Cashback
+2026-04-03,GRAB*FOOD,32.50,SGD,Generic Cashback
+2026-04-05,Singapore Airlines,640.00,SGD,Citi PremierMiles
+2026-04-08,NTUC Fairprice,78.40,SGD,Generic Cashback
+2026-04-10,BOOKING.COM HOTEL,420.00,SGD,Citi PremierMiles
+2026-04-12,Apple.com/Bill,14.98,SGD,Generic Cashback
+2026-04-16,Restaurant Ichiban,86.00,SGD,Generic Cashback
+2026-04-20,Uber Trip,24.80,SGD,Generic Cashback
+2026-04-22,Amazon US,189.20,USD,Generic Cashback
